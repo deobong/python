@@ -39,3 +39,4 @@ a.reverse() đảo ngược list a
 sorted(a),reversed(a),min(a),max,sum…
 print(list(a.reversed(a))
 lesscode.com để làm bài
+các hàm build thay đổi luôn chính nó a.append(100) thêm vào list a và cập nhật luôn lít
