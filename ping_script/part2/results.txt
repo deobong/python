@@ -1,0 +1,6 @@
+Down 8.8.8.8 Ping Unsuccessful
+Down 192.168.23.143 Ping Unsuccessful
+Down 192.168.23.144 Ping Unsuccessful
+Down 192.168.23.145 Ping Unsuccessful
+Down 192.168.23.146 Ping Unsuccessful
+Down 192.168.23.147 Ping Unsuccessful
