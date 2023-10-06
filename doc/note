@@ -1,0 +1,41 @@
+# dùng khi ko muốn thực hiện liên tục chỉ thoát khi gặp sự kiện đặc biệt
+while true:
+  if : 
+    breack
+# khi muốn sử dụng lại code mà ko muốn chạy main -> cáu trúc chuẩn mực khi viết hàm main  
+if __name__ == "__main__" 
+    main()
+#cấu trúc pygame
+
+List
+list <>array
+b=list() khởi tạo giá trị list rỗng
+a=[1,”hoang”,None,”hoang”,True]
+a.index(“hoang”)=1
+a.count(“hoang”)=2
+len(a)=5
+a[1]=”hoang”
+for item in a: print(item) 
+: is called slicing
+For index, a1 in enumerate(a):
+Print(f” phần tử số  {index} là : {a1}” ) them ,start =1 để bắt đầu từ  số 1 
+Print(a[2:]) Print(a[2::]), Print(a[:1]) Print(a[-1]) -> phần tử cuối cùng
+Print(a[::])
+Print(a[::2]) 1,None,True   step=2
+Print(a[::-1]) đảo ngược các phần tử list
+Them xoá
+a*2, a+[2,3] ko thay đổi list a
+a.append(100) thêm 100 vào cuối list a, chỉ thêm một phận tử
+a.extend([1,2,”anh”]) thêm nhiều phần tử
+a.insert(3,4) thêm 4 vào vị trí index=3 
+a.pop() xoá ptu cuối cùng
+a.pop(4) 4 là index
+a.remove(“hoang”) xoá hoang vi tri đầu tiên,  “hoang” sau vân để nguyên
+a.remove(“chao”) giá trị ko có trả vể  ValueError 
+del a[3,4] xoá index3,4
+a.sort() tăng dần
+a.sort(reverse=true) giảm dần
+a.reverse() đảo ngược list a
+sorted(a),reversed(a),min(a),max,sum…
+print(list(a.reversed(a))
+lesscode.com để làm bài
