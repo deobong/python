@@ -1,4 +1,5 @@
 local repo<----->remote repo
+
 workflow:  
 (Working Directory)---git init---> (ininitzation)--git add .->
 -> (Staging Area)--git commit->(LocalRepository)----git push--->(github)
